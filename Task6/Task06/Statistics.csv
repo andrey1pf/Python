@@ -1,0 +1,8 @@
+Algorithm,Time
+Bubble Sort,2.86102294921875e-06
+Insertion Sort,1.9073486328125e-06
+Shell Sort,3.814697265625e-06
+Selection Sort,3.0994415283203125e-06
+Merge Sort,9.5367431640625e-07
+Quick Sort,1.9073486328125e-06
+Quick Sort Hoare,9.5367431640625e-07
